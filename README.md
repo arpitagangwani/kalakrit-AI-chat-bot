@@ -6,7 +6,7 @@
 
 ## 🧠 Key Features
 
-- 🎤 **Real-time Speech Recognition** (English & Hindi)
+- 🎤 **Real-time Speech Recognition** 
 - 🌍 **Auto Language Detection** with manual override
 - 🧠 **GPT-enhanced Translation Formatting** (direct + natural form)
 - 🗣️ **Text-to-Speech Output** (Male/Female voices)
