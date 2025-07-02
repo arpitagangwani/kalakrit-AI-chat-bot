@@ -1,5 +1,9 @@
-streamlit
+customtkinter
+speechrecognition
+whisper
+torch
+transformers
+googletrans==4.0.0rc1
 gtts
-googletrans==4.0.0-rc1
-openai-whisper
-pydub
+playsound
+pillow
