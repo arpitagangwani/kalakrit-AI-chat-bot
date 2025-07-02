@@ -1,6 +1,6 @@
 # Kalakrit AI Chatbot 🎙️🤖
 
-**Kalakrit KAI (Kalakrit Artificial Insaan)** is an AI-powered real-time voice translator that listens to your speech, translates it intelligently between **English ↔ Hindi**, and speaks the result out loud. It features a professional, chat-style GUI with multilingual support, auto language detection, and GPT-enhanced formatting.
+**Kalakrit KAI (Kalakrit Artificial Insaan)** is an AI-powered real-time voice translator that listens to your speech, translates it intelligently between **ANY INDIAN OR INTERNNATIONAL LANGUAGE**, and speaks the result out loud. It features a professional, chat-style GUI with multilingual support, auto language detection, and GPT-enhanced formatting.
 
 ---
 
